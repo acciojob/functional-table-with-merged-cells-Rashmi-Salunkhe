@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+table {
+            border-collapse: collapse;
+            width: 100%;
+	border-color: rgb(255, 165, 0);
+	border-style: solid;
+	border-width: 0px 0px 1px 1px;
+}
+        th, td {
+			border-width: 1px 1px 0px 0px;
+			border-color: rgb(255, 165, 0);
+			border-style: solid;
+            padding: 3px 5px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #888;
+            color: #fff;
+        }
+
+        
+       
